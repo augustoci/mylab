@@ -1,0 +1,4 @@
+Este es la primer linea creada para teste de versionados con git
+Segunda linea para ver como cambia el estado con git status
+Esta es una tercera modificacion para git diff
+Esta es una prueba de vscode
